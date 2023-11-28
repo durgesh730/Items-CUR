@@ -1,10 +1,10 @@
 
-<!-- first -->
-<!-- install all dependencies -->
+first
+install all dependencies
 npm i --force 
 
-<!-- second -->
-<!-- start server -->
+second
+start server
 nodemon 
 
-<!-- server started  -->
+server started 
